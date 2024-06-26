@@ -1,0 +1,31 @@
+_repo: Experimental-glass-blowing-for-boys_73841
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynde, Carleton John
+    alias: Lynde, Carleton J.
+    birthdate: 1872
+    deathdate: 1971
+    gutenberg_agent_id: '57212'
+    url: http://www.gutenberg.org/2009/agents/57212
+description: ''
+gutenberg_issued: '2024-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73841'
+language: en
+pgterms:marc904: https://archive.org/details/experimentalglas00lynd
+pgterms:marc905: 20231101150309lynde
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Richard Tonsing, deaurider, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew Haven :$bThe A. C. Gilbert Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Experimental glass blowing for boys
+url: http://www.gutenberg.org/ebooks/73841
